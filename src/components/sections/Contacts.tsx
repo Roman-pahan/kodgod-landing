@@ -27,10 +27,6 @@ export const Contacts: React.FC = () => {
                 <span className="contact-label">Email</span>
                 <span className="contact-value">info@kodgod.ru</span>
               </li>
-              <li>
-                <span className="contact-label">Город</span>
-                <span className="contact-value">«работаем удалённо»</span>
-              </li>
             </ul>
 
             <p
