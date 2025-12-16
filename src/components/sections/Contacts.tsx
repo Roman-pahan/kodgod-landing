@@ -25,19 +25,11 @@ export const Contacts: React.FC = () => {
             <ul className="contact-list">
               <li>
                 <span className="contact-label">Email</span>
-                <span className="contact-value">example@kodgod.ru</span>
-              </li>
-              <li>
-                <span className="contact-label">Телефон / мессенджер</span>
-                <span className="contact-value">
-                  +7&nbsp;900&nbsp;000-00-00 (WhatsApp / Telegram)
-                </span>
+                <span className="contact-value">info@kodgod.ru</span>
               </li>
               <li>
                 <span className="contact-label">Город</span>
-                <span className="contact-value">
-                  указать ваш город или «работаем удалённо»
-                </span>
+                <span className="contact-value">«работаем удалённо»</span>
               </li>
             </ul>
 
